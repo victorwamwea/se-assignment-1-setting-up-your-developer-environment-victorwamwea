@@ -55,7 +55,7 @@ Created a README file and make your first commit:
 
 Pushed the repository to GitHub:
 
-- git remote add origin https://github.com/bryan-giitwa/myfirstproject.git
+- git remote add origin https://github.com/victorwamwea/myfirstproject.git
 - git push -u origin main
 
 4. Installed Python Programming Language and its Runtimes
